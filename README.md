@@ -38,6 +38,7 @@ The system consists of the following containers:
 ## Project Structure
 
 Dockerized-project
+
 │
 ├── Docker-files
 │ ├── app
@@ -88,5 +89,4 @@ View logs: docker logs <Container-name>
 Stop containers: docker compose down
 
 ## Author
-Henex
-DevOps Learning Project
+Adegbola Adeniyi (Henex)
